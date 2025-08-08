@@ -68,7 +68,7 @@ print(", ".join(['Java', 'TypeScript', 'Python'])) # Java, TypeScript, Python
 
 Fontes:
 
-https://docs.python.org/3/library/stdtypes.html#str.strip
-https://docs.python.org/3/library/stdtypes.html#str.count
-https://docs.python.org/3/library/stdtypes.html#str.split
-https://docs.python.org/3/library/stdtypes.html#str.join
+- https://docs.python.org/3/library/stdtypes.html#str.strip
+- https://docs.python.org/3/library/stdtypes.html#str.count
+- https://docs.python.org/3/library/stdtypes.html#str.split
+- https://docs.python.org/3/library/stdtypes.html#str.join
